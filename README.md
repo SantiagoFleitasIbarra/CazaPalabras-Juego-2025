@@ -4,7 +4,7 @@
 
 ## 🔥 **¿De qué se trata?**
 
-**CazaPalabra** es un juego en el que tienes que adivinar una palabra misteriosa, pero lo emocionante es que **la longitud de las palabras varía**. Puedes enfrentarte a una palabra de **4, 5, 6, 7 letras o más**, y tendrás **6 intentos** para adivinarla. Con cada intento, te daremos pistas visuales para que puedas acercarte a la respuesta. ¡Entre más rápido lo logres, mejor!
+**CazaPalabra** es un juego en el que tienes que adivinar una palabra misteriosa, pero lo emocionante es que **la longitud de las palabras varía**. Puedes enfrentarte a una palabra de **3, 4, 5, 6 letras o más**, y tendrás **6 intentos** para adivinarla. Con cada intento, te daremos pistas visuales para que puedas acercarte a la respuesta. ¡Entre más rápido lo logres, mejor!
 
 ### 🕹️ **Reglas del juego:**
 
